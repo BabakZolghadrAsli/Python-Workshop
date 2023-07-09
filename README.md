@@ -1,2 +1,4 @@
 # Python-Workshop
-Python Workshops - Biginners to advance
+Python Workshops - Beginners to advance
+
+Here are some of the materials I would use for my Python workshops classes. 
